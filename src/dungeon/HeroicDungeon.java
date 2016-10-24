@@ -12,5 +12,7 @@ public class HeroicDungeon {
         dungeon.createDungeon();
         dungeon.createPlayer();
         dungeon.gameLoop();
+        
+        // Dette er en GitHub TEST !!!! :D
     }
 }
