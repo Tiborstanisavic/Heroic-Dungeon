@@ -14,5 +14,6 @@ public class HeroicDungeon {
         dungeon.gameLoop();
         
         // Dette er en GitHub TEST !!!! :D
+        // Dette er en ny Github TEST!! ;)
     }
 }
