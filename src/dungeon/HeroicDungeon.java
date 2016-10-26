@@ -15,5 +15,6 @@ public class HeroicDungeon {
         
         // Dette er en GitHub TEST !!!! :D
         // Dette er en ny Github TEST!! ;)
+        // DENNE TEST ER FRA OLIVER!
     }
 }
